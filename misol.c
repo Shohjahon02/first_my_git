@@ -2,6 +2,6 @@
 
 int main(){
 
-   printf("hi");
+   printf("hello world from uzbekistan");
     return 0;
 }
